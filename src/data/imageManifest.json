@@ -1,0 +1,201 @@
+{
+  "birthday-party": {
+    "width": 2400,
+    "height": 2887,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "lqip": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwAwCdASoQABMAPu1kqk4ppaQiMAgBMB2JQBbZBD4VRkBCI4pkgAD+xLIrKl7JS/dx59pfbepiX3FT0EVTRbgPxvcHAfCU9HQSe7pGGYEBbsmciKcT0bwOgzq0RB3FwAA="
+  },
+  "club-crowd": {
+    "width": 2400,
+    "height": 1600,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoQAAsAA4BaJbACdACqG3QSXUAA/u9ncuKOaU+Xm/4GFJO/odZYh/c4Xj+NvdFs625Rd5OLgAA="
+  },
+  "concert-hands": {
+    "width": 2400,
+    "height": 1600,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoQAAsAA4BaJZACdADb/wvnGAAA/vGBe9QMSOcHRXEtMj4z83XOE0Txs8HdILydIdcw/SAA"
+  },
+  "confetti-night": {
+    "width": 2400,
+    "height": 4266,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACQBACdASoQABwAPu1krU2ppaSiMAgBMB2JYgCdMoADTt4sHn9+gfs+ixh5TAAA/u6OoFJTJdDp5EHjzNNQMIl4rfuZcy8E6M9jR68er4AoucZumZ00Uf/+FUKaOVWbXcQjHpJXnxpgqWI0hd3iq9cEQJwAAA=="
+  },
+  "corporate-evening": {
+    "width": 2400,
+    "height": 3600,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAwAgCdASoQABgAA4BaJZAAAuXBGzsr48vwAAD+9doHeF97c+Wo+BivBE5z9kSjUdyX9So7sfiaY8YeKNPETnNAC9XZzxAcOQn90X4AAAA="
+  },
+  "dj-controller": {
+    "width": 2400,
+    "height": 1600,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoQAAsAA4BaJQAAS1JGe6ZQAP7zzr4NSNzINDhklCGa8YaA0C18sSBVNx+pSumlOoBRBCQAAAA="
+  },
+  "dj-headphones": {
+    "width": 2400,
+    "height": 3600,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQBACdASoQABgAPu1kqk2ppaQiMAgBMB2JZQCw7CHe1/ZJNXcS0zoEAAD+7nmeGZPF528VqPhgItfidj9Gej6kAvfOa3X76oAAAA=="
+  },
+  "friends-confetti": {
+    "width": 2400,
+    "height": 3600,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwAwCdASoQABgALrV2u12jqampiYC0SgC7AEO42Vdda/xewtOAAAD+9NANIcAVvlk8CE+dL0f8CGl8XMBhYl5+QZl4qLHQj64Hh7RH4b+vGYdeo2ttRfqQmw5gjdlDnaFoR4kAAAA="
+  },
+  "gala-dance": {
+    "width": 2400,
+    "height": 3600,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwBACdASoQABgAPu1kqk4ppaQiMAgBMB2JbACdMoACZvOq6EqMR9lviAAA/XR7VvIhbb/0MJthHC20IDV8k38Mg6eNWvVIO4B21Uh3s3Q8jAAG3TmF9LdXaz2xi/g5GwbhqlokojxDc/JgAAA="
+  },
+  "hero": {
+    "width": 2400,
+    "height": 1600,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600,
+      2400
+    ],
+    "lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADwAQCdASoQAAsAA4BaJZQCdAEPDqbNMsAA/vhRmTwTtb+FinorejqHFTTW87AAAAA="
+  },
+  "intro-dj": {
+    "width": 2400,
+    "height": 3600,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "lqip": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQBACdASoQABgAPu1Ct1apoqakGAEwHYlsAJ0AIh7fuPcxNAzC5LknDAD+72oW5VU7lOlJzk+GgP0sSU5nW7wtaIYHEX1hD+jQmUwdXxifJycz7H4L53nGsM//Sj6fqGPIuFyo3/k7BtH+PnGIGb2E8lD+NVY/kAAAAA=="
+  },
+  "mixer-closeup": {
+    "width": 2400,
+    "height": 3200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwBACdASoQABUAPu1iqU2ppaOiMAgBMB2JaACdICXC42dur+dEzwbUhtAA/vKw1/n9OBEfxgydQbtAxWY1vihMRrwHUM6y+JILM7cAfh5J8Z46hWqZo8QGtkGWuCIcMhh/z4AplIMiKEd7lrIJgAAA"
+  },
+  "portrait": {
+    "width": 2400,
+    "height": 3600,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAwCdASoQABgAPu1kq04ppaQiMAgBMB2JZwAAXBvk5KXeorV2aCAA/sD7LsaPR3WUvC2HlMsGN8VTX6SnNKSYruwEAP6K/mouaqvgRHOzoQAA"
+  },
+  "private-garden-party": {
+    "width": 2400,
+    "height": 1600,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAsAA4BaJQBOgCHgB6OnqAAA/varOwabv6/AmsJ/i83EZQImwpk1OYuZXMXmbZaMU2l+VSE4wAAA"
+  },
+  "stage-silhouettes": {
+    "width": 2400,
+    "height": 3600,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwBACdASoQABgAPu1iqk2ppaQiMAgBMB2JagCdMoADQx7Ppvg9xzVz1IAA/vM0yO2iBF9KNGkWA/tOoHd5HXqcBvK6+aJ3QNd15uMvvb3u2gzasycoqk4jgAA="
+  },
+  "wedding-disco": {
+    "width": 2400,
+    "height": 3595,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAACQBACdASoQABgAPu1iqk2ppaQiMAgBMB2JaACdMoR8eCn+kPy9dXZ3Sf/cbEAA/uvuJeGRKhTf9yc+Bp3pvvqN+Z8X4QEPoyDk9a9F9y6BpAX74YuU52V194SflHWyGP6+7pTI6BpaAAAA"
+  },
+  "wedding-fireworks": {
+    "width": 2400,
+    "height": 1600,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAAsAA4BaJbACdAEfY2tqRiAA/uUsEnnoetOoyVOjvGIgw7KBmNivAIK3wD7WuQ7KT+yMsHQtSiXuQAA="
+  },
+  "wedding-guests": {
+    "width": 2400,
+    "height": 1600,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAwAgCdASoQAAsAA4BaJYgCdH8AE51Wmor0wAD+6aS3TMvNJHAZRAYyhrxRFVgwcN6WyUt1tjzaqM49X5/V0xZNUGyTgQAA"
+  }
+}
